@@ -8,7 +8,7 @@ Bem-vindo ao perfil do GitHub de **Cláudio**, estudante de engenharia de softwa
 - 🌱 Estou aprendendo mais sobre **Machine Learning**, **DevOps** e **IA**.
 - 👯 Estou aberto a colaborar em projetos de **Software Engineering**, **Automação** e **Desenvolvimento de Aplicações Web**.
 - 💬 Pergunte-me sobre **JavaScript**, **Python**, **PHP** e **TypeScript**.
-- 📫 Como me encontrar: eng-soft-claudio@gmail.com (mailto:eng-soft-claudio@gmail.com)
+- 📫 Como me encontrar: eng-soft-claudio@gmail.com
 - ⚡ Curiosidade: Eu gosto de resolver problemas complexos com soluções simples e elegantes.
 
 ## 🔧 Tecnologias & Ferramentas
@@ -41,7 +41,7 @@ Estou sempre em busca de melhorar meus conhecimentos e contribuir para projetos 
 
 ## 📫 Contato
 
-- Email: eng-soft-claudio@gmail.com (mailto:eng-soft-claudio@gmail.com)
+- Email: eng-soft-claudio@gmail.com 
 - LinkedIn: claudiolimatosta(https://www.linkedin.com/in/claudiodelimatosta/)
 
 ---
