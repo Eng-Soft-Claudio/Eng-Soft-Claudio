@@ -24,7 +24,7 @@ Bem-vindo ao perfil do GitHub de **Cláudio**, estudante de engenharia de softwa
   - Visual Studio Code
   
 - 📦 **Frameworks**:
-  - Node.js
+  - Vue.js
 
 ## 📈 Estatísticas de GitHub
 
