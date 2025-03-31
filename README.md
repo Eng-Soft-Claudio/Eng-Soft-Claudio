@@ -33,7 +33,9 @@ Bem-vindo ao perfil do GitHub de **Cláudio**, estudante de engenharia de softwa
 ## 📝 Repositórios Destacados
 
 - [Projeto 1 - Descrição breve](https://github.com/Eng-Soft-Claudio/ToDoList)
+  
 - [Projeto 2 - Descrição breve](https://github.com/Eng-Soft-Claudio/simulador-de-investimentos)
+  
 
 ## 👨‍💻 Contribuições
 
@@ -42,7 +44,7 @@ Estou sempre em busca de melhorar meus conhecimentos e contribuir para projetos 
 ## 📫 Contato
 
 - Email: eng-soft-claudio@gmail.com 
-- LinkedIn: claudiolimatosta
+- LinkedIn: https://www.linkedin.com/in/claudiodelimatosta/
 
 ---
 
