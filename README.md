@@ -1,6 +1,6 @@
 # 👨‍💻 Eng-Soft-Claudio
 
-Bem-vindo ao perfil do GitHub de **Cláudio**, estudante de engenharia de software, apaixonado por tecnologia e desenvolvimento de software. Aqui você encontrará diversos alguns repositórios relacionados ao meu aprendizado.
+Bem-vindo ao perfil do GitHub de **Cláudio**, estudante de engenharia de software, apaixonado por tecnologia e desenvolvimento de software. Aqui você encontrará repositórios relacionados ao meu aprendizado.
 
 ## 🚀 Sobre mim
 
