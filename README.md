@@ -1,4 +1,4 @@
-# 👨‍💻 Engennheiro de Software Claudio
+# 👨‍💻 Engenheiro de Software Claudio
 
 Bem-vindo ao meu perfil do GitHub, estudante de Engenharia de Software, apaixonado por tecnologia e desenvolvimento de aplicações escaláveis e seguras. Aqui você encontrará repositórios relacionados ao meu aprendizado.
 
