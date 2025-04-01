@@ -35,6 +35,8 @@ Bem-vindo ao perfil do GitHub de **Cláudio**, estudante de engenharia de softwa
 - [Projeto 1 - Descrição breve](https://github.com/Eng-Soft-Claudio/ToDoList)
   
 - [Projeto 2 - Descrição breve](https://github.com/Eng-Soft-Claudio/simulador-de-investimentos)
+
+- [Projeto 3 - Descrição breve](https://github.com/Eng-Soft-Claudio/pokedex)
   
 
 ## 👨‍💻 Contribuições
