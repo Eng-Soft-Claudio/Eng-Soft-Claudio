@@ -44,7 +44,7 @@ Estou sempre em busca de melhorar meus conhecimentos e contribuir para projetos 
 ## 📫 Contato
 
 - Email: eng-soft-claudio@gmail.com 
-- LinkedIn: https://www.linkedin.com/in/claudiodelimatosta/
+- LinkedIn: [claudiodelimatosta](https://www.linkedin.com/in/claudiodelimatosta/)
 
 ---
 
