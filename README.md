@@ -1,15 +1,12 @@
 # 👨‍💻 Eng-Soft-Claudio
 
-Bem-vindo ao perfil do GitHub de **Cláudio**, estudante de engenharia de software, apaixonado por tecnologia e desenvolvimento de software. Aqui você encontrará repositórios relacionados ao meu aprendizado.
+Bem-vindo ao meu perfil do GitHub, estudante de Engenharia de Software, apaixonado por tecnologia e desenvolvimento de aplicações escaláveis e seguras. Aqui você encontrará repositórios relacionados ao meu aprendizado.
 
 ## 🚀 Sobre mim
 
-- 🔭 Atualmente estou trabalhando em **CRUD**.
-- 🌱 Estou aprendendo mais sobre **Machine Learning**, **DevOps** e **IA**.
-- 👯 Estou aberto a colaborar em projetos de **Software Engineering**, **Automação** e **Desenvolvimento de Aplicações Web**.
-- 💬 Pergunte-me sobre **JavaScript**, **Python**, **PHP** e **TypeScript**.
-- 📫 Como me encontrar: eng-soft-claudio@gmail.com
-- ⚡ Curiosidade: Eu gosto de resolver problemas complexos com soluções simples e elegantes.
+- &#128218; Aprimorando hard skills em **API's**, **PDV**, **ERP**, **CRUD**, **Machine Learning** e **DevOps**.
+- &#128161; Aplicando sempre Soft Skills como **Comunicação**, **Proatividade**, **Trabalho em equipe** e **Resiliência**.
+- &#128187; Estou aberto a colaborar em projetos **FullStack**, **BackEnd** e **FrontEnd**.
 
 ## 🔧 Tecnologias & Ferramentas
 
@@ -25,6 +22,7 @@ Bem-vindo ao perfil do GitHub de **Cláudio**, estudante de engenharia de softwa
   
 - 📦 **Frameworks**:
   - Vue.js
+  - Laravel
 
 ## 📈 Estatísticas de GitHub
 
