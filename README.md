@@ -30,11 +30,13 @@ Bem-vindo ao meu perfil do GitHub, estudante de Engenharia de Software, apaixona
 
 ## 📝 Repositórios Destacados
 
-- [Projeto 1 - Descrição breve](https://github.com/Eng-Soft-Claudio/ToDoList)
+- [Projeto 1 - ToDoList](https://github.com/Eng-Soft-Claudio/ToDoList)
   
-- [Projeto 2 - Descrição breve](https://github.com/Eng-Soft-Claudio/simulador-de-investimentos)
+- [Projeto 2 - Simulador de Investimentos](https://github.com/Eng-Soft-Claudio/simulador-de-investimentos)
 
-- [Projeto 3 - Descrição breve](https://github.com/Eng-Soft-Claudio/pokedex)
+- [Projeto 3 - Pokedex](https://github.com/Eng-Soft-Claudio/pokedex)
+
+- [Projeto 4 - Exercícios Python](https://github.com/Eng-Soft-Claudio/ExerciciosPython)
   
 
 ## 👨‍💻 Contribuições
