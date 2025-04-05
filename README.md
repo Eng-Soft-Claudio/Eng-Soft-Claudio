@@ -70,6 +70,7 @@ Sou estudante de **Engenharia de Software** com foco em desenvolvimento de aplic
 | [💰 Simulador de Investimentos](https://github.com/Eng-Soft-Claudio/simulador-de-investimentos) | Simule diferentes tipos de investimentos com gráficos |
 | [🧬 Pokédex](https://github.com/Eng-Soft-Claudio/pokedex) | Pokédex com busca de pokémons, sistema de favoritos e login |
 | [🐍 Exercícios Python](https://github.com/Eng-Soft-Claudio/ExerciciosPython) | Repositório de exercícios práticos para aprimorar a lógica com Python |
+| [👥 Cadastro de Clientes](https://github.com/Eng-Soft-Claudio/CadastroCliente) | Repositório de uma aplicação fullstack para cadastro, edição e exclusão de clientes|
 
 ---
 
