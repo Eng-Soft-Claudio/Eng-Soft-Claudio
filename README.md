@@ -19,7 +19,7 @@
 
 ## 🚀 Sobre Mim
 
-🎓 Estudante de **Engenharia de Software**, com foco no aprimoramento contínuo de **hard** e **soft skills** voltadas para o **Fullstack**.  
+🎓 Estudante de **Engenharia de Software**, foco no aprimoramento contínuo de **hard** e **soft skills** voltadas para ao **Fullstack**.  
 🚀 Desenvolvendo aplicações completas, automatizando processos, gerenciando infraestrutura e aplicando práticas de **CI/CD**.
 
 ---
