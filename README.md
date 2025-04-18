@@ -66,12 +66,9 @@ Sou estudante de **Engenharia de Software** com foco em desenvolvimento de aplic
 
 | Projeto | Descrição |
 |--------|------------|
-| [📋 ToDoList](https://github.com/Eng-Soft-Claudio/ToDoList) | Lista de tarefas com funcionalidades de adicionar, editar e remover |
-| [💰 Simulador de Investimentos](https://github.com/Eng-Soft-Claudio/simulador-de-investimentos) | Simule diferentes tipos de investimentos com gráficos |
-| [🧬 Pokédex](https://github.com/Eng-Soft-Claudio/pokedex) | Pokédex com busca de pokémons, sistema de favoritos e login |
-| [🐍 Exercícios Python](https://github.com/Eng-Soft-Claudio/ExerciciosPython) | Repositório de exercícios práticos para aprimorar a lógica com Python |
-| [👥 Cadastro de Clientes](https://github.com/Eng-Soft-Claudio/CadastroCliente) | Repositório de uma aplicação fullstack para cadastro, edição e exclusão de clientes|
-| [🛒 E-commerce](https://github.com/Eng-Soft-Claudio/techhub) | Repositório de uma aplicação fullstack monorepo para um e-commerce |
+| [💰 API E-Commerce](https://github.com/Eng-Soft-Claudio/E-commerce) | API básica para um e-commerce |
+| [👥 Cadastro de Clientes](https://github.com/Eng-Soft-Claudio/CadastroCliente) | Aplicação fullstack CRUD em andamento|
+| [👨‍💻 Projeto FullStack](https://github.com/Eng-Soft-Claudio/techhub) | Aplicação fullstack monorepo CRUD em andamento |
 
 ---
 
