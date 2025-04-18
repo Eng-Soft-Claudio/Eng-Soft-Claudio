@@ -85,7 +85,6 @@
 
     Documentação via Swagger
 
-    Dockerização para facilitar o deploy
 
 🔄 Próximos passos:
 
@@ -93,7 +92,7 @@
 
     Dockerização para facilitar o deploy
 
-    Continuação de documentação técnica com Swagger UI
+    Continuação da documentação técnica com Swagger UI
 
     
 
