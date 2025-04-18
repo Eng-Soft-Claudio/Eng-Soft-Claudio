@@ -1,23 +1,34 @@
-# 👨‍💻 Engenheiro de Software | Cláudio de Lima Tosta
+<h1 align="center">👨‍💻 Engenheiro de Software | Cláudio de Lima Tosta</h1>
 
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:eng-soft-claudio@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudiodelimatosta/)
-[![GitHub followers](https://img.shields.io/github/followers/Eng-Soft-Claudio?style=social)](https://github.com/Eng-Soft-Claudio)
-[![GitHub Stars](https://img.shields.io/github/stars/Eng-Soft-Claudio?style=social)](https://github.com/Eng-Soft-Claudio?tab=repositories)
+<p align="center">
+  <a href="mailto:eng-soft-claudio@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/claudiodelimatosta/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Eng-Soft-Claudio">
+    <img src="https://img.shields.io/github/followers/Eng-Soft-Claudio?style=social" />
+  </a>
+  <a href="https://github.com/Eng-Soft-Claudio?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Eng-Soft-Claudio?style=social" />
+  </a>
+</p>
 
 ---
 
 ## 🚀 Sobre Mim
 
-Sou estudante de **Engenharia de Software** com foco em desenvolvimento de aplicações **escaláveis**, **seguras** e **intuitivas**. Meu objetivo é dominar tanto o **back-end** quanto o **front-end**, sempre com um olhar atento à arquitetura de software e boas práticas.
+🎓 Estudante de **Engenharia de Software**, com foco no aprimoramento contínuo de **hard** e **soft skills** voltadas para o **Fullstack**.  
+🚀 Desenvolvendo aplicações completas, automatizando processos, gerenciando infraestrutura e aplicando práticas de **CI/CD**.
 
 ---
 
 ## 💡 Interesses Atuais
 
-- 🔧 Projetos com **API’s RESTful**, **CRUDs modernos**, **PDVs**, **ERP’s** e **Integrações com Banco de Dados**.
-- 🤖 Explorando **Machine Learning** e **DevOps** como próximos passos da minha formação.
-- 🧠 Fortalecendo as Soft Skills: **Comunicação**, **Proatividade**, **Trabalho em Equipe** e **Resiliência**.
+- 🔧 Desenvolvimento de **APIs RESTful**, **CRUDs modernos**, **sistemas de PDV/ERP** e **integrações robustas com bancos de dados**.
+- 🤖 Explorando **DevOps** como próximos passos da minha formação.
+- 🧠 Fortalecendo as soft skills: **Comunicação**, **Proatividade**, **Trabalho em Equipe** e **Resiliência**.
 
 ---
 
@@ -28,7 +39,8 @@ Sou estudante de **Engenharia de Software** com foco em desenvolvimento de aplic
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)]()
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 
 
 ### 🧰 Frameworks & Bibliotecas  
@@ -40,16 +52,53 @@ Sou estudante de **Engenharia de Software** com foco em desenvolvimento de aplic
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 
+### 🛒 Banco de Dados & Ferramentas  
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/cloud/atlas)
+[![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)](https://cloudinary.com/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 
 
-### 🛒 Ferramentas de Desenvolvimento  
+
+### 🔧 Desenvolvimento & Infraestrutura  
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
 [![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
 [![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
-[![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/cloud/atlas)
+[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://swagger.io/)
+
+
+---
+
+## 🧩 Projeto em Desenvolvimento
+
+📦 E-commerce API (REST)
+
+🛍️ API RESTful para um sistema de e-commerce, planejada com foco em escalabilidade, boas práticas de arquitetura e integrações modernas. Atualmente em fase de desenvolvimento e estruturação do ambiente.
+
+⚙️ Tecnologias aplicadas:
+
+    Node.js + Express
+
+    Autenticação via JWT
+
+    Documentação via Swagger
+
+    Dockerização para facilitar o deploy
+
+🔄 Próximos passos:
+
+    Integração com banco relacional (MySQL)
+
+    Dockerização para facilitar o deploy
+
+    Continuação de documentação técnica com Swagger UI
+
+    
+
+🚧 Status: Em construção  
+📌 Objetivo: Ser o principal projeto do meu portfólio, com foco Fullstack e DevOps
 
 ---
 
@@ -62,19 +111,10 @@ Sou estudante de **Engenharia de Software** com foco em desenvolvimento de aplic
 
 ---
 
-## 🧩 Projetos em Destaque
-
-| Projeto | Descrição |
-|--------|------------|
-| [💰 API E-Commerce](https://github.com/Eng-Soft-Claudio/E-commerce) | API básica para um e-commerce |
-| [👥 Cadastro de Clientes](https://github.com/Eng-Soft-Claudio/CadastroCliente) | Aplicação fullstack CRUD em andamento|
-| [👨‍💻 Projeto FullStack](https://github.com/Eng-Soft-Claudio/techhub) | Aplicação fullstack monorepo CRUD em andamento |
-
----
-
 ## 🤝 Contribuições e Colaborações
 
-Estou sempre em busca de aprendizado contínuo. Gosto de contribuir com a comunidade e receber feedback construtivo. Fique à vontade para abrir uma **issue**, sugerir melhorias ou colaborar nos meus repositórios!
+Estou sempre em busca de aprendizado contínuo. Gosto de contribuir com a comunidade e receber feedback construtivo.  
+Sinta-se à vontade para abrir uma **issue**, sugerir melhorias ou colaborar nos meus repositórios!
 
 ---
 
@@ -85,5 +125,5 @@ Estou sempre em busca de aprendizado contínuo. Gosto de contribuir com a comuni
 
 ---
 
-### ⭐ Obrigado por visitar meu perfil!
-Se encontrou algo interessante por aqui, seja um seguidor e deixe sua estrela ⭐
+<h3 align="center">⭐ Obrigado por visitar meu perfil! ⭐<br>Se encontrou algo interessante por aqui, siga e deixe uma estrela nos projetos!</h3>
+
