@@ -17,8 +17,8 @@
 
 ---
 
-## 🚀 Sobre Mim
-
+## 🚀 Sobre Mim 
+   
 🎓 Estudante de **Engenharia de Software**, foco no aprimoramento contínuo de **hard** e **soft skills** voltadas para ao **Fullstack**.  
 🚀 Desenvolvendo aplicações completas, automatizando processos, gerenciando infraestrutura e aplicando práticas de **CI/CD**.
 
@@ -119,8 +119,23 @@ Sinta-se à vontade para abrir uma **issue**, sugerir melhorias ou colaborar nos
 
 ## 📫 Contato
 
-- 📧 Email: [eng-soft-claudio@gmail.com](mailto:eng-soft-claudio@gmail.com)  
-- 💼 LinkedIn: [claudiodelimatosta](https://www.linkedin.com/in/claudiodelimatosta/)
+<table align="center" border="0" cellspacing="20">
+  <tr align="center" border="0" cellspacing="20">
+    <td align="center" border="0" cellspacing="20">
+      <img src="https://github.com/user-attachments/assets/c94c05be-571c-491a-901b-005a441f8ff9" width="150" align="center" border="0" cellspacing="20"/>
+    </td>
+    <td align="center" border="0" cellspacing="20">
+      <img src="https://github.com/user-attachments/assets/3b392f86-3e63-4f22-b2b7-e178ac3b6b1a" width="150" align="center" border="0" cellspacing="20" />
+    </td>
+    <td align="center" border="0" cellspacing="20">
+      <img src="https://github.com/user-attachments/assets/cabf47b5-c229-4847-843f-7007e850309c" width="150" align="center" border="0" cellspacing="20" />
+    </td>
+    <td align="center" border="0" cellspacing="20">
+      <img src="https://github.com/user-attachments/assets/3d02e2ad-0242-4886-851e-57c57497bccb" width="150" align="center" border="0" cellspacing="20" />
+    </td>
+  </tr>
+</table>
+  
 
 ---
 
