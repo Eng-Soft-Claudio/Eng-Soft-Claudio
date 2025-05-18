@@ -81,11 +81,13 @@
 ⚙️ Tecnologias aplicadas:  
     Node.js + Express  
     Autenticação via JWT  
-    Documentação via Swagger  
+    Documentação via Swagger (OpenAPI)
+    
 🔄 Próximos passos:  
     Integração com banco relacional (MySQL)  
     Dockerização para facilitar o deploy  
     Continuação da documentação técnica com Swagger UI  
+    
 🚧 Status: Em construção  
   
 </details>
@@ -97,13 +99,32 @@
 ⚙️ Tecnologias aplicadas:  
     Python + FastAPI  
     Autenticação via JWT  
-    Documentação via Swagger  
+    Documentação via Swagger (OpenAPI)
     Integração com banco relacional (MongoDB)  
     Dockerização para facilitar o deploy  
     Automatização de Testes com Pytest  
   
 </details>
 
+📦 MedicalSysytemOrganizer (API RESTful)
+<details>
+  🛍️ API RESTful para um sistema de gerenciamento de clínica médica, planejada com foco em escalabilidade, boas práticas de arquitetura e integrações modernas.
+
+⚙️ Tecnologias aplicadas:  
+    Python + FastAPI  
+    Autenticação via JWT  
+    Documentação via Swagger  
+    Integração com banco relacional (PostgreeSQL)  
+    Dockerização para facilitar o deploy  
+
+🔄 Próximos passos:  
+    Continuação da documentação técnica com Swagger (OpenAPI)
+    Expansão da implementação CRUD
+    Automatização de Testes com Pytest
+
+🚧 Status: Em construção
+  
+</details>
 
 
 ---
