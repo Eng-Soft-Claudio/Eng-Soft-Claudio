@@ -19,7 +19,7 @@
 
 ## 🚀 Sobre Mim 
    
-🎓 Estudante de **Engenharia de Software**, foco no aprimoramento contínuo de **hard** e **soft skills** voltadas para ao **Fullstack**.  
+🎓 Estudante de **Engenharia de Software**, foco no aprimoramento contínuo de **hard** e **soft skills** voltadas para ao **Backend**.  
 🚀 Desenvolvendo aplicações completas, automatizando processos, gerenciando infraestrutura e aplicando práticas de **CI/CD**.
 
 ---
@@ -52,12 +52,13 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 
+
 ### 🛒 Banco de Dados & Ferramentas  
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/cloud/atlas)
 [![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)](https://cloudinary.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 
 ### 🔧 Desenvolvimento & Infraestrutura  
@@ -114,7 +115,7 @@
     Python + FastAPI  
     Autenticação via JWT  
     Documentação via Swagger  
-    Integração com banco relacional (PostgreeSQL)  
+    Integração com banco relacional (PostgreSQL)  
     Dockerização para facilitar o deploy  
 
 🔄 Próximos passos:  
