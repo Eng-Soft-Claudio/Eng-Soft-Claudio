@@ -73,31 +73,38 @@
 
 ## 🧩 Projeto em Desenvolvimento
 
-📦 E-commerce API (REST)
 
-🛍️ API RESTful para um sistema de e-commerce, planejada com foco em escalabilidade, boas práticas de arquitetura e integrações modernas. Atualmente em fase de desenvolvimento e estruturação do ambiente.
+📦 E-commerce (API RESTful)
+<details>
+  🛍️ API RESTful para um sistema de e-commerce, planejada com foco em escalabilidade, boas práticas de arquitetura e integrações modernas. Atualmente em fase de desenvolvimento e estruturação do ambiente.
 
-⚙️ Tecnologias aplicadas:
-
-    Node.js + Express
-
-    Autenticação via JWT
-
-    Documentação via Swagger
-
-
-🔄 Próximos passos:
-
-    Integração com banco relacional (MySQL)
-
-    Dockerização para facilitar o deploy
-
-    Continuação da documentação técnica com Swagger UI
-
-    
-
+⚙️ Tecnologias aplicadas:  
+    Node.js + Express  
+    Autenticação via JWT  
+    Documentação via Swagger  
+🔄 Próximos passos:  
+    Integração com banco relacional (MySQL)  
+    Dockerização para facilitar o deploy  
+    Continuação da documentação técnica com Swagger UI  
 🚧 Status: Em construção  
-📌 Objetivo: Ser o principal projeto do meu portfólio, com foco Fullstack e DevOps
+  
+</details>
+
+📦 SmartTask (API RESTful)
+<details>
+  🛍️ API RESTful para um sistema de gerenciamento de tarefas, planejada com foco em escalabilidade, boas práticas de arquitetura e integrações modernas.
+
+⚙️ Tecnologias aplicadas:  
+    Python + FastAPI  
+    Autenticação via JWT  
+    Documentação via Swagger  
+    Integração com banco relacional (MongoDB)  
+    Dockerização para facilitar o deploy  
+    Automatização de Testes com Pytest  
+  
+</details>
+
+
 
 ---
 
