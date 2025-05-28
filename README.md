@@ -36,22 +36,9 @@
 
 ### 👨‍💻 Linguagens  
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)]()
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 
-
-### 🧰 Frameworks & Bibliotecas  
+### 🧰 Frameworks 
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)]()
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)]()
-[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)]()
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)]()
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-
 
 ### 🛒 Banco de Dados & Ferramentas  
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
@@ -66,7 +53,6 @@
 [![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
-[![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)]()
 [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://swagger.io/)
 
 
@@ -75,58 +61,19 @@
 ## 🧩 Projeto em Desenvolvimento
 
 
-📦 E-commerce (API RESTful)
+📦 CRUD Template (API RESTful)
 <details>
-  🛍️ API RESTful para um sistema de e-commerce, planejada com foco em escalabilidade, boas práticas de arquitetura e integrações modernas. Atualmente em fase de desenvolvimento e estruturação do ambiente.
+  🛍️ API RESTful para um sistema de CRUD de usuários, planejada com foco em escalabilidade, boas práticas de arquitetura e integrações modernas.
 
 ⚙️ Tecnologias aplicadas:  
-    Node.js + Express  
+    Python
+    FastAPI  
     Autenticação via JWT  
-    Documentação via Swagger (OpenAPI)
-    
-🔄 Próximos passos:  
-    Integração com banco relacional (MySQL)  
-    Dockerização para facilitar o deploy  
-    Continuação da documentação técnica com Swagger UI  
-    
-🚧 Status: Em construção  
-  
-</details>
-
-📦 SmartTask (API RESTful)
-<details>
-  🛍️ API RESTful para um sistema de gerenciamento de tarefas, planejada com foco em escalabilidade, boas práticas de arquitetura e integrações modernas.
-
-⚙️ Tecnologias aplicadas:  
-    Python + FastAPI  
-    Autenticação via JWT  
-    Documentação via Swagger (OpenAPI)
-    Integração com banco relacional (MongoDB)  
-    Dockerização para facilitar o deploy  
-    Automatização de Testes com Pytest  
-  
-</details>
-
-📦 MedicalSysytemOrganizer (API RESTful)
-<details>
-  🛍️ API RESTful para um sistema de gerenciamento de clínica médica, planejada com foco em escalabilidade, boas práticas de arquitetura e integrações modernas.
-
-⚙️ Tecnologias aplicadas:  
-    Python + FastAPI  
-    Autenticação via JWT  
-    Documentação via Swagger  
     Integração com banco relacional (PostgreSQL)  
     Dockerização para facilitar o deploy  
-
-🔄 Próximos passos:  
-    Continuação da documentação técnica com Swagger (OpenAPI)
-    Expansão da implementação CRUD
-    Automatização de Testes com Pytest
-
-🚧 Status: Em construção
-  
+    
+🚧 Status: Em fase final de construção e aperfeiçoamento
 </details>
-
 
 ---
 
@@ -151,18 +98,6 @@ Sinta-se à vontade para abrir uma **issue**, sugerir melhorias ou colaborar nos
 <h3 align="center">
   <p align="center">
     <img src="https://github.com/user-attachments/assets/c94c05be-571c-491a-901b-005a441f8ff9" width="250" />
-  </p>
-  <br>
-  <p align="center">
-    <img src="https://github.com/user-attachments/assets/3b392f86-3e63-4f22-b2b7-e178ac3b6b1a" width="250" />
-  </p>
-  <br>
-  <p align="center">
-    <img src="https://github.com/user-attachments/assets/cabf47b5-c229-4847-843f-7007e850309c" width="250" />
-  </p>
-  <br>
-  <p align="center">
-    <img src="https://github.com/user-attachments/assets/3d02e2ad-0242-4886-851e-57c57497bccb" width="250" />
   </p>
 </h3>
 
